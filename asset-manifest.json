@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dashboard-react/static/css/main.f855e6bc.css",
+    "main.js": "/dashboard-react/static/js/main.6b085802.js",
+    "static/js/787.db65dfc8.chunk.js": "/dashboard-react/static/js/787.db65dfc8.chunk.js",
+    "static/media/chart.png": "/dashboard-react/static/media/chart.ac000d064507e0ac56ae.png",
+    "index.html": "/dashboard-react/index.html",
+    "main.f855e6bc.css.map": "/dashboard-react/static/css/main.f855e6bc.css.map",
+    "main.6b085802.js.map": "/dashboard-react/static/js/main.6b085802.js.map",
+    "787.db65dfc8.chunk.js.map": "/dashboard-react/static/js/787.db65dfc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6b085802.js"
+  ]
+}
